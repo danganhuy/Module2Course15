@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Exericse2 {
+public class Exercise2 {
     public static Integer[] createRandom() {
         Random rd = new Random();
         Integer[] arr = new Integer[100];
