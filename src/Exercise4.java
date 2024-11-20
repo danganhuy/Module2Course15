@@ -23,5 +23,8 @@ public class Exercise4 {
         catch (Exception e) {
             System.err.println(e);
         }
+        finally {
+            System.out.println("End of program");
+        }
     }
 }
